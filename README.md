@@ -1,4 +1,4 @@
-# Myfirst_project
+# frontend_backend_website
 
-created by me
+for seeing this project you want to need install nodejs and npm in your pc. 
 
